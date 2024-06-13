@@ -5,7 +5,7 @@ ITX i9-12900H D4 + RX6600 XFX
 Latest working macOS: 12.1
 Current OpenCore: 1.0.0
 
-Complete hardware specs
+Complete hardware especificações
 Intel i9 12900H @ stock
 Mini ITX ERYING  i9-12900H D4
 AMD RX 6600XFX 8GB
@@ -13,7 +13,7 @@ AMD RX 6600XFX 8GB
 What works
 macOS Ventura
 
-Kexts used:
+Kexts usadas:
 AppleALC.kext
 CpuTscSync.kext
 Lilu.kext
